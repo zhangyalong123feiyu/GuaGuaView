@@ -68,6 +68,9 @@ public class GuaView extends View {
         mCavans.drawPath(mpath,mpiant);
         invalidate();
         return true;
+
+
+
     }
 
     @Override
