@@ -79,5 +79,6 @@ public class GuaView extends View {
         super.onDraw(canvas);
         canvas.drawBitmap(mDownImage,0,0,null);
         canvas.drawBitmap(mUpImage,0,0,null);
+        Log.i("TAG","我最初是在local分支上");
     }
 }
