@@ -66,6 +66,7 @@ public class GuaView extends View {
                 break;
         }
         mCavans.drawPath(mpath,mpiant);
+        Log.i("TAG","move---------testcommit-------");
         invalidate();
         return true;
 
