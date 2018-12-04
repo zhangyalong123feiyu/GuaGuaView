@@ -48,7 +48,7 @@ public class GuaView extends View {
 
         mCavans=new Canvas(mUpImage);
         mCavans.drawColor(Color.GRAY);
-
+        Log.i("TAG","down--------tesst--comit--------");
     }
 
 
